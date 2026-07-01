@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0442/b/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 華嚴通關
+  edition:
+    short: b
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B32/B32n0180.xml
+    old_id: B32n0180
+hash: sha256:7a92dbf13b1c9b3722a53b33fa070b2fa900050890a04587d15a67053515c90e

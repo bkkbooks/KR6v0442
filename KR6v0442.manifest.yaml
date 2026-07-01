@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR6v0442/v1
+canonical_location: https://kanripo.org/bkk/KR6v0442/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 華嚴通關
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B32/B32n0180.xml
+    old_id: B32n0180
+  edition:
+    short: bkk
+editions:
+- short: 補編
+  label: 補編
+  source_xml_id: wit.orig
+- short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0442_000.yaml, hash: 'sha256:7a92dbf13b1c9b3722a53b33fa070b2fa900050890a04587d15a67053515c90e'}
+  - {seq: 1, filename: KR6v0442_001.yaml, hash: 'sha256:f9ca495d910f38625404b3c31ba6275bf49bf0d5cb2cb48afe7e0e6745aa82f2'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0442_001.markers.yaml, hash: 'sha256:6a11106899481baa9e5c60c8de168675be5019ae8269ced563a7451bbdd63d28'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0442_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 7569
+  label: 249華嚴通關
+  type: juan
+  level: 1
+hash: sha256:085368491909824a5f5731d984a712f1f9666886e6a6be388fb1ec1a7520628e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
